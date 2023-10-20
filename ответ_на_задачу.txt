@@ -1,0 +1,3 @@
+Bar.Quux(int)
+Bar.Quux(object
+Baz.Quux(int
