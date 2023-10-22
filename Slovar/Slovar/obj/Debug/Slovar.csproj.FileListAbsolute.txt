@@ -1,0 +1,7 @@
+D:\Учеба\Visual Studio Project\Slovar\Slovar\bin\Debug\Slovar.exe.config
+D:\Учеба\Visual Studio Project\Slovar\Slovar\bin\Debug\Slovar.exe
+D:\Учеба\Visual Studio Project\Slovar\Slovar\bin\Debug\Slovar.pdb
+D:\Учеба\Visual Studio Project\Slovar\Slovar\obj\Debug\Slovar.csproj.AssemblyReference.cache
+D:\Учеба\Visual Studio Project\Slovar\Slovar\obj\Debug\Slovar.csproj.CoreCompileInputs.cache
+D:\Учеба\Visual Studio Project\Slovar\Slovar\obj\Debug\Slovar.exe
+D:\Учеба\Visual Studio Project\Slovar\Slovar\obj\Debug\Slovar.pdb
